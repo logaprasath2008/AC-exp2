@@ -59,22 +59,12 @@ Plot the message signal, carrier signal, DSBSC modulated signal, and the recover
 ---
 
 ## TABULATION
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/67a1e901-9e61-4107-aa83-4242d3048b5b" />
 
-| Sl. No. | SIGNAL                 | AMPLITUDE (V)  | FREQUENCY (Hz) |
-| ------- | ---------------------- | -------------- | -------------- |
-| **1**   | **Message Signal**     | **Theory:**    | **Theory:**    |
-|         |                        | **Practical:** | **Practical:** |
-| **2**   | **Carrier Signal**     | **Theory:**    | **Theory:**    |
-|         |                        | **Practical:** | **Practical:** |
-| **3**   | **Modulated Signal**   | **Practical:** |                |
-|         |                        | **Emax =**     |                |
-|         |                        | **Emin =**     |                |
-| **4**   | **Demodulated Signal** | **Practical:** |                |
-
----
 
 ## MODEL GRAPH
 
 **Practical**
+<img width="900" height="1600" alt="image" src="https://github.com/user-attachments/assets/c17bcc37-72c5-4261-9e8f-1613873b195d" />
 
 ---
