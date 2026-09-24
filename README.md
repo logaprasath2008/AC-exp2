@@ -59,12 +59,14 @@ Plot the message signal, carrier signal, DSBSC modulated signal, and the recover
 ---
 
 ## TABULATION
-<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/67a1e901-9e61-4107-aa83-4242d3048b5b" />
+<img width="1600" height="900" alt="WhatsApp Image 2026-09-24 at 2 53 30 PM" src="https://github.com/user-attachments/assets/494eae3f-c837-411e-952d-398cbc80a032" />
+
 
 
 ## MODEL GRAPH
 
 **Practical**
-<img width="900" height="1600" alt="image" src="https://github.com/user-attachments/assets/c17bcc37-72c5-4261-9e8f-1613873b195d" />
+<img width="900" height="1600" alt="WhatsApp Image 2026-09-24 at 2 53 34 PM" src="https://github.com/user-attachments/assets/01689e7d-fd87-4814-897c-9f21e9cb99cb" />
+
 
 ---
